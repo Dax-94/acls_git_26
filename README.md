@@ -1,4 +1,4 @@
-# ACLS Git Demo
+# My very fancy ACLS Git Demo that is going to change the world
 
 Important git commands:
 
